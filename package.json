@@ -1,0 +1,19 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "Test Email",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StanislavStashchuk/Contact-Form-Email-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StanislavStashchuk/Contact-Form-Email-Test/issues"
+  },
+  "homepage": "https://github.com/StanislavStashchuk/Contact-Form-Email-Test#readme"
+}
