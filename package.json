@@ -6,11 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/StanislavStashchuk/Contact-Form-Email-Test.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/StanislavStashchuk/Contact-Form-Email-Test.git",
+  "author": "Stanislav Stashchuk <stashchuk_stanislav@ukr.net>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/StanislavStashchuk/Contact-Form-Email-Test/issues"
